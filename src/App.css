@@ -31,3 +31,50 @@
     transform: rotate(360deg);
   }
 }
+
+#coolDiv {
+  text-align: center;
+  padding:50px;
+  background-color: lightpink;
+  color:yellow;
+}
+
+#coolDivTwo {
+  text-align: center;
+  padding:50px;
+  background-color: lightblue;
+  color:green;
+}
+
+#coolDivThree {
+  text-align: center;
+  padding:50px;
+  background-color: salmon;
+  color:white;
+}
+
+#coolDivFour {
+  text-align: center;
+  padding:50px;
+  background-color: lightseagreen;
+  color: darkgreen;
+}
+
+#coolDivFive {
+  text-align: center;
+  padding:50px;
+  background-color: royalblue;
+  color: greenyellow;
+}
+
+#coolDivSix {
+  text-align: center;
+  padding:50px;
+  background-color: lightsalmon;
+  color:brown;
+}
+
+#searchDiv {
+  background-color: yellow;
+  padding:30px;
+}
